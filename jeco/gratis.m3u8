@@ -543,3 +543,8 @@ http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/141884.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="&flix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4146FBHWc5LlpryItJ2cYLytWWs2KnaI2yg&usqp=CAU" group-title="MOVIES",&FLIX
 http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/53420.ts
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="foxlife" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGSXiqYc5uB15mvMuGl_dUaeoHFJ8o9pOnZw&usqp=CAU" group-title="MOVIES",FOX LIFE
+http://ucer2020.ddns.net/r3rhj5U47C/jRxaUqYtQj/96323
