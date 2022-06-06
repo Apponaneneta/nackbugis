@@ -41,7 +41,7 @@ https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="a/n" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wXGecm2aRPQM5IRcP-0ftSiYgGQphV2LEA&usqp=CAU" group-title="VISION+",A/N
+#EXTINF:-1 tvg-ID="a/n" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wXGecm2aRPQM5IRcP-0ftSiYgGQphV2LEA&usqp=CAU" group-title="MOVIES",A/N
 https://apponaneneta.github.io/mbah-dukun-cabul/Appona_Neneta.mp4
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
