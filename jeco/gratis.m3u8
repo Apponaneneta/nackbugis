@@ -718,3 +718,8 @@ http://axcestv.vip:8080/Freeindo/axcestv/464
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="gtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7OjU0BJ_gwOtYwefry4fa4ecrnM4YOZ-rtQ&usqp=CAU" group-title="DIGITAL",GTV
 http://axcestv.vip:8080/Freeindo/axcestv/471
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="transtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq2Fn7HZEI-vYTd8F1FFcIfdvD_wPKHPGkew&usqp=CAU" group-title="DIGITAL",TRANSTV
+http://axcestv.vip:8080/Freeindo/axcestv/466
