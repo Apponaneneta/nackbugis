@@ -708,3 +708,8 @@ http://axcestv.vip:8080/Freeindo/axcestv/468
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="rcti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS-utk1yWl_Q7zHibxtwYepdBRrDfneyTYwg&usqp=CAU" group-title="DIGITAL",RCTI
 http://axcestv.vip:8080/Freeindo/axcestv/470
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="antv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi9rR2MkQo4MwfiQ7A9IoITxVyoTm_LhQCWA&usqp=CAU" group-title="DIGITAL",ANTV
+http://axcestv.vip:8080/Freeindo/axcestv/464
