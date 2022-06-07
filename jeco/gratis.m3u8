@@ -748,3 +748,29 @@ http://axcestv.vip:8080/Freeindo/axcestv/463
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="inews" tvg-logo="https://thumbor.prod.vidiocdn.com/iwgmFnVw3R8ZlasU7LXJFnGpZBY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="DIGITAL",INEWS
 http://axcestv.vip:8080/Freeindo/axcestv/551
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="starmovies" tvg-logo="https://ewsat.com/img/STAR_MOVIES.png" group-title="MOVIES",STAR MOVIES
+http://axcestv.vip:8080/Freeindo/axcestv/512
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="starmoviesselect" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFco_oAKN5PvArZJe8kR81QvUHVf9uYNSv3A&usqp=CAU" group-title="MOVIES",STAR MOVIES SELECT
+http://axcestv.vip:8080/Freeindo/axcestv/513
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="galaxy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcEmnrfLbdG9Ap7v4hWI-w1NuocdGjuxCLQA&usqp=CAU" group-title="MOVIES",GALAXY
+http://axcestv.vip:8080/Freeindo/axcestv/517
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="galaxypremium" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586679050-.png" group-title="MOVIES",GALAXY PREMIUM
+http://axcestv.vip:8080/Freeindo/axcestv/518
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="paramount" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvtNaNworpZh_4eJb1F2ZYtbpTOYedkXTS6g&usqp=CAU" group-title="MOVIES",PARAMOUNT
+http://axcestv.vip:8080/Freeindo/axcestv/531
+ 
