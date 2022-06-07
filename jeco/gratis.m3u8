@@ -678,3 +678,8 @@ https://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="tv1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH7sjCvVerBkNadx95JGmngFt3M5webKeAJg&usqp=CAU" group-title="MALAYSIA",TV1
 http://axcestv.vip:8080/Freeindo/axcestv/432
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="tv2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhTnupege4G_HUF6vWYIDp76T3ZNykax6xAg&usqp=CAU" group-title="MALAYSIA",TV2
+http://axcestv.vip:8080/Freeindo/axcestv/434
