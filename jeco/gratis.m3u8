@@ -746,5 +746,5 @@ http://axcestv.vip:8080/Freeindo/axcestv/463
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="net" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBQGPyn4PTqBHNaQuEofZNs__qZoxBO5igww&usqp=CAU" group-title="DIGITAL",NET
+#EXTINF:-1 tvg-ID="inews" tvg-logo="https://thumbor.prod.vidiocdn.com/iwgmFnVw3R8ZlasU7LXJFnGpZBY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="DIGITAL",INEWS
 http://axcestv.vip:8080/Freeindo/axcestv/551
