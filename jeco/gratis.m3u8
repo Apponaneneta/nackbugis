@@ -467,27 +467,27 @@ https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/transtv2_all/playlist.m3u8?wmsAuthSign
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="ochannel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1cFt5T0Q3p-XScNS5AqkbohSXXc4F9C3_pQ&usqp=CAU" group-title="VIDIO",O CHANNEL
-https://bagoltvku.my.id/PUNYA-MVTV/master-18.m3u8
+https://dukun.masuk.id/lokal/ochanneldukun.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="tvn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJQY-Uu17iWYv3iLo07uFtw6p-oOXW5lIGUg&usqp=CAU" group-title="VIDIO",TVN
-https://bagoltvku.my.id/PUNYA-MVTV/master-16.m3u8
+https://dukun.masuk.id/hiburan/tvn.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="citrabioskop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW5_10tZRWqijMx1EGEGdyXBfEjW8i7i-abQ&usqp=CAU" group-title="VIDIO",CITRA BIOSKOP
-https://bagoltvku.my.id/PUNYA-MVTV/master-1.m3u8
+https://dukun.masuk.id/hiburan/cbioskop.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="citradrama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGa-pq8oCEZwMk8amdGR2xWf3eB8bRK2WB0Q&usqp=CAU" group-title="VIDIO",CITRA DRAMA
-https://bagoltvku.my.id/PUNYA-MVTV/master-2.m3u8
+https://dukun.masuk.id/hiburan/cdrama.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="citradangdut" tvg-logo="https://thumbor.prod.vidiocdn.com/1P2whd9QWhFOXKjtFutI5O4uJJg=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra-dangdut-0ed971.jpg" group-title="VIDIO",CITRA ANGDUT
-https://bagoltvku.my.id/PUNYA-MVTV/master-10.m3u8
+https://dukun.masuk.id/hiburan/cdangdut.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -497,7 +497,7 @@ https://bagoltvku.my.id/PUNYA-MVTV/master-11.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="citramuslim" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEhCdfawRKn00iPynGrjd_tINtFXJRgZEcLA&usqp=CAU" group-title="VIDIO",CITRA MUSLIM
-https://bagoltvku.my.id/PUNYA-MVTV/master-9.m3u8
+https://dukun.masuk.id/hiburan/cmuslim.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
