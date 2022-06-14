@@ -743,3 +743,8 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="tv6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyOUMZHCcUMw67aXx5E34w2-c_IDg58eJUYA&usqp=CAU" group-title="RTM",TV6
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="unifysport1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest/scale-to-width-down/280?cb=20210712111848" group-title="RTM",UNIFY SPORT1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
