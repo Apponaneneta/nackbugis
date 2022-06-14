@@ -651,16 +651,21 @@ https://dukun.masuk.id/olahraga/bt1.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="bt2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZdjooxlODjpA6Apaws9kEovaSaRmAQoIpSA&usqp=CAU" group-title="SPORTS",BT1
+#EXTINF:-1 tvg-ID="bt2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZdjooxlODjpA6Apaws9kEovaSaRmAQoIpSA&usqp=CAU" group-title="SPORTS",BT2
 https://dukun.masuk.id/olahraga/bt2.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="bt3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtapowALjbJs1LLTeBGz2wBEx0_mS1Vt2Mng&usqp=CAU" group-title="SPORTS",BT1
+#EXTINF:-1 tvg-ID="bt3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtapowALjbJs1LLTeBGz2wBEx0_mS1Vt2Mng&usqp=CAU" group-title="SPORTS",BT3
 https://dukun.masuk.id/olahraga/bt3.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="rush" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs5QMJHmyBo5CzlscHaiuYQKctmN_78pQsJQ&usqp=CAU" group-title="SPORTS",BT1
+#EXTINF:-1 tvg-ID="rush" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs5QMJHmyBo5CzlscHaiuYQKctmN_78pQsJQ&usqp=CAU" group-title="SPORTS",RUSH
 https://dukun.masuk.id/olahraga/rush.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="imc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSonGR7J55dNACtxbgGm2GRHu08lQoyD8mcw&usqp=CAU" group-title="SPORTS",IMC
+https://dukun.masuk.id/hiburan/imc.mpd
 
