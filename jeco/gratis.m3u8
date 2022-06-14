@@ -676,110 +676,15 @@ https://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="tv1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH7sjCvVerBkNadx95JGmngFt3M5webKeAJg&usqp=CAU" group-title="MALAYSIA",TV1
-http://axcestv.vip:8080/Freeindo/axcestv/432
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="tv2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhTnupege4G_HUF6vWYIDp76T3ZNykax6xAg&usqp=CAU" group-title="MALAYSIA",TV2
-http://axcestv.vip:8080/Freeindo/axcestv/434
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="tv3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYr6qxEq4pPp6rn-blL7ABOXqLu2AUthUQGw&usqp=CAU" group-title="MALAYSIA",TV3
-http://axcestv.vip:8080/Freeindo/axcestv/435
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4rIyhPVEo2qGZTmXlP3AS31uSaoUblGzW2Q&usqp=CAU" group-title="DIGITAL",MNCTV
-http://axcestv.vip:8080/Freeindo/axcestv/469
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="indosiar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUAmlb6dppJUv9tDuDly0MdwWF9bPn3lu-0A&usqp=CAU" group-title="DIGITAL",INDOSIAR
-http://axcestv.vip:8080/Freeindo/axcestv/465
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="sctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGwS7p_K4Ce2konGXogUPjPtIPMgQioiJsPw&usqp=CAU" group-title="DIGITAL",SCTV
-http://axcestv.vip:8080/Freeindo/axcestv/468
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="rcti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS-utk1yWl_Q7zHibxtwYepdBRrDfneyTYwg&usqp=CAU" group-title="DIGITAL",RCTI
-http://axcestv.vip:8080/Freeindo/axcestv/470
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="antv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi9rR2MkQo4MwfiQ7A9IoITxVyoTm_LhQCWA&usqp=CAU" group-title="DIGITAL",ANTV
-http://axcestv.vip:8080/Freeindo/axcestv/464
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="gtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7OjU0BJ_gwOtYwefry4fa4ecrnM4YOZ-rtQ&usqp=CAU" group-title="DIGITAL",GTV
-http://axcestv.vip:8080/Freeindo/axcestv/471
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="transtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq2Fn7HZEI-vYTd8F1FFcIfdvD_wPKHPGkew&usqp=CAU" group-title="DIGITAL",TRANSTV
-http://axcestv.vip:8080/Freeindo/axcestv/466
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="trans7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROMOkVmiN_yOlEGAK2VhyRB9q188tbwMz5Mw&usqp=CAU" group-title="DIGITAL",TRANS 7
-http://axcestv.vip:8080/Freeindo/axcestv/467
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="kompastv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRc_SjiIHLLeJn1OdWVjO4mopKbvb4_dkm9A&usqp=CAU" group-title="DIGITAL",KOMPAS TV
-http://axcestv.vip:8080/Freeindo/axcestv/553
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="metrotv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd02znv71MAM7QCROhNQZhZf1QWo2hVDx2lQ&usqp=CAU" group-title="DIGITAL",METRO TV
-http://axcestv.vip:8080/Freeindo/axcestv/554
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="tvone" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg1Z7-DevgqJzXgl3EVOhL3THy5sw2-YLOkA&usqp=CAU" group-title="DIGITAL",TVONE
-http://axcestv.vip:8080/Freeindo/axcestv/463
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="inews" tvg-logo="https://thumbor.prod.vidiocdn.com/iwgmFnVw3R8ZlasU7LXJFnGpZBY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="DIGITAL",INEWS
-http://axcestv.vip:8080/Freeindo/axcestv/551
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="starmovies" tvg-logo="https://ewsat.com/img/STAR_MOVIES.png" group-title="MOVIES",STAR MOVIES
-http://axcestv.vip:8080/Freeindo/axcestv/512
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="starmoviesselect" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFco_oAKN5PvArZJe8kR81QvUHVf9uYNSv3A&usqp=CAU" group-title="MOVIES",STAR MOVIES SELECT
-http://axcestv.vip:8080/Freeindo/axcestv/513
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="galaxy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcEmnrfLbdG9Ap7v4hWI-w1NuocdGjuxCLQA&usqp=CAU" group-title="MOVIES",GALAXY
-http://axcestv.vip:8080/Freeindo/axcestv/517
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="galaxypremium" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586679050-.png" group-title="MOVIES",GALAXY PREMIUM
-http://axcestv.vip:8080/Freeindo/axcestv/518
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="paramount" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvtNaNworpZh_4eJb1F2ZYtbpTOYedkXTS6g&usqp=CAU" group-title="MOVIES",PARAMOUNT
-http://axcestv.vip:8080/Freeindo/axcestv/531
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="paramount" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAJB2aGVp9L9QbjEsVPVczUmApamLivyO54A&usqp=CAU" group-title="SPORTS",BT1
+#EXTINF:-1 tvg-ID="bt1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAJB2aGVp9L9QbjEsVPVczUmApamLivyO54A&usqp=CAU" group-title="SPORTS",BT1
 https://dukun.masuk.id/olahraga/bt1.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="paramount" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZdjooxlODjpA6Apaws9kEovaSaRmAQoIpSA&usqp=CAU" group-title="SPORTS",BT1
+#EXTINF:-1 tvg-ID="bt2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZdjooxlODjpA6Apaws9kEovaSaRmAQoIpSA&usqp=CAU" group-title="SPORTS",BT1
 https://dukun.masuk.id/olahraga/bt2.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="bt3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtapowALjbJs1LLTeBGz2wBEx0_mS1Vt2Mng&usqp=CAU" group-title="SPORTS",BT1
+https://dukun.masuk.id/olahraga/bt3.m3u8
