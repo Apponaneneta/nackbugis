@@ -541,18 +541,13 @@ http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/141884.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="&flix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4146FBHWc5LlpryItJ2cYLytWWs2KnaI2yg&usqp=CAU" group-title="MOVIES",&FLIX
-http://axcestv.vip:8080/Freeindo/axcestv/510
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="foxlife" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGSXiqYc5uB15mvMuGl_dUaeoHFJ8o9pOnZw&usqp=CAU" group-title="MOVIES",FOX LIFE
 http://ucer2020.ddns.net/r3rhj5U47C/jRxaUqYtQj/96323
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="mcn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcbG-fjt-ogNNiPkEmOqNPUE9Q5gZ8jiS2wQ&usqp=CAU" group-title="MOVIES",MCN
-http://210.210.155.35/session/ce58b1ec-a605-11ec-a75d-c81f66f89318/uq2663/h/h192/index.m3u8
+https://dukun.masuk.id/hiburan/rockex.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
