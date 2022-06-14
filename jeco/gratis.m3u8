@@ -778,3 +778,8 @@ http://axcestv.vip:8080/Freeindo/axcestv/531
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="paramount" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAJB2aGVp9L9QbjEsVPVczUmApamLivyO54A&usqp=CAU" group-title="SPORTS",BT1
 https://dukun.masuk.id/olahraga/bt1.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="paramount" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZdjooxlODjpA6Apaws9kEovaSaRmAQoIpSA&usqp=CAU" group-title="SPORTS",BT1
+https://dukun.masuk.id/olahraga/bt2.m3u8
