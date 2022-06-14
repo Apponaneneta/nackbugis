@@ -703,4 +703,8 @@ http://live.roomba.tv/tonys4372@roomba.tv/4798299647/1400733.ts
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="astroprima" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVnm8Swt0cWIA6LMgSf9ytEY_my_nqLwASJA&usqp=CAU" group-title="RTM",ASTRO PRIMA
 http://live.roomba.tv/tonys4372@roomba.tv/4798299647/1400701.ts
-
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="astroceria" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4u3Dxve65drr3Kup7ddT779K_-Sr7AZaUTg&usqp=CAU" group-title="RTM",ASTRO CERIA
+http://live.roomba.tv/tonys4372@roomba.tv/4798299647/1400568.ts
