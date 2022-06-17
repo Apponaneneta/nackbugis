@@ -771,5 +771,5 @@ https://acdn.bdixsports.live:1935/live/event.stream/chunklist_w339898209.m3u8?bd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="starmovies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ms2ibMOEXrS9e4ey8X0gm2tM8-f6AG5ELw&usqp=CAU" group-title="MOVIES",STAR MOVIES
+#EXTINF:-1 tvg-ID="starmovies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ms2ibMOEXrS9e4ey8X0gm2tM8-f6AG5ELw&usqp=CAU" group-title="MOVIE",STAR MOVIES
 http://103.157.26.154:25461/live/relaxtv/ywu27tesf/164.m3u8
