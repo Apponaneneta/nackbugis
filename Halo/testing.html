@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+    <html>
+      <head><title>test</title></head>
+    <!-- DASH-AVC/265 reference implementation -->
+    <script src="js/dash.all.js"></script>
+   <body>
+   	<script>
+    // setup the video element and attach it to the Dash player
+    function setupVideo() {
+      var url = "https://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51(format=mpd-time-csf)";
+      var context = new Dash.di.DashContext();
+      var player = new MediaPlayer(context);
+                      player.startup();
+                      player.attachView(document.querySelector("#videoplayer"));
+                      player.attachSource(url);
+    }
+    </script>
+    	<style>
+    video {
+      width: 100%;
+      height: 30%;
+    }
+    </style>
+    <body onload="setupVideo()">
+        <video id="videoplayer" width="100%" height="30%" controls>
+    	    <source src="https://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51" type="video/mp4" ></source>
+    </video>
+      </body>
+    </html>
