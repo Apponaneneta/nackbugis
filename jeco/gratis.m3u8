@@ -767,7 +767,7 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manif
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="sonyten2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuDB8LSs0c6mPfjqBa_x5DsQCIM0esyDOwhw&usqp=CAU" group-title="SPORTS",SONY TEN 2
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2661c086-4189-453d-80a4-536de660a8b5)/manifest.mpd
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
